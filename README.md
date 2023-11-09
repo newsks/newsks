@@ -8,7 +8,7 @@ Connecting the dots
 사용자 경험을 중시하고 최적화된 개발을 위해 끊임없이 공부하고 발전해나아갑니다.</h4>
 <br/>
 
-<h2 align="center">Tech Stack🛠</h2>
+<h2 align="center">Tech Stack</h2>
    <br/>
 <div align=center> 
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/> 
