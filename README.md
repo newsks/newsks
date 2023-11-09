@@ -5,12 +5,10 @@ Connecting the dots
 
 웹디자인 퍼블리싱 경력 10년과 더불어 프론트엔드개발 공부중 입니다.<br/>
 
-끊임없이 공부하고 발전해나아갑니다.<br/>
-
-사용자 경험을 중시하고 최적화된 개발을 위해 나아갑니다.</h4>
+사용자 경험을 중시하고 최적화된 개발을 위해 끊임없이 공부하고 발전해나아갑니다.</h4>
 <br/>
 
-<h3 align="center">Tech Stack🛠</h3>
+<h2 align="center">Tech Stack🛠</h2>
    <br/>
 <div align=center> 
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/> 
@@ -23,7 +21,7 @@ Connecting the dots
   <br/>
   <br/>
   
-<h1>자격사항</h1>
+<h2>자격사항</h2>
 <h4 align="center">정보처리기사, 웹디자인기능사, 공인중개사</h4>
 
 </br>
